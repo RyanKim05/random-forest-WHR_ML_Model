@@ -96,14 +96,3 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 Modeling: Random Forest, GridSearchCV
 
 Visualization: Seaborn, Matplotlib
-
-##**📂 Project Structure**
-bash
-Copy
-Edit
-├── data/
-│   └── WHR2018Chapter2OnlineData.csv
-├── notebook.ipynb   # Full workflow
-├── feature_importances.png
-├── pred_vs_actual.png
-└── README.md
